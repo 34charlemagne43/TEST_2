@@ -1,0 +1,39 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      padding: 30px;
+}
+
+h1 {
+      font-family: "Georgia", serif;
+      font-size: 36px;
+      font-style: italic;
+      color: darkblue;
+      border: 3px solid navy;
+      border-radius: 10px;
+      padding: 10px;
+      margin-bottom: 20px;
+}
+
+p {
+      font-family: "Verdana", sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333;
+      border: 2px dashed teal;
+      padding: 15px;
+      margin: 15px auto;
+      width: 70%;
+}
+    .highlight-box {
+      font-family: "Courier New", monospace;
+      font-size: 20px;
+      font-weight: bold;
+      color: maroon;
+      border: 4px double maroon;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 20px auto;
+      width: 60%;
+      background-color: #fff5f5

@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(236, 218, 53); 
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 60%;
+    height: 50%;
+    text-align: center;
+    background-color: #93b478;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    height: 70px;
+    width: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+th {
+    background-color: #3c6148;
+}
